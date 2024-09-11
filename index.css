@@ -1,14 +1,23 @@
 
 * {
-    font-family: Arial;
+    font-family: 'Gill Sans', 'Lucida Sans', sans-serif;
+}
+
+body {
+    background-color: #FFFF00; /* Primary color: Beacon Yellow */
 }
 
 h1 {
-    color: Blue;
-    font-size: 36px;
+    font-size: 70pt; /* Title text size */
+    color: black;
+}
+
+h2 {
+    font-size: 38pt; /* Subheading text size */
+    color: black;
 }
 
 p {
-    font-size: 18px;
-    color: Gray;
+    font-size: 18pt; /* Body text size */
+    color: black; /* Ensure all text is black unless on a black background */
 }
