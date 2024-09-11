@@ -23,7 +23,7 @@ The web page includes:
 HTML: Structuring the content of the webpage.
 CSS: Styling the webpage for visual enhancements.
 
-License
+## License
 This project is open-source under the MIT License.
 
 You can add this README to your repository by creating a `README.md` file and pasting the content above. 
